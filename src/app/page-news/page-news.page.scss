@@ -1,0 +1,89 @@
+ion-content{
+    --background: none;
+    background-image: linear-gradient(180deg, #ff93ff 0, #ff89ff 16.67%, #e17cf2 33.33%, #b46cd8 50%, #895cbc 66.67%, #644ea3 83.33%, #44418c 100%);
+    background-size: 100% 100%;
+    border-radius: 2vh;
+    flex: 1;
+  }
+
+  .icons{
+    height: 18%;
+    width: 18%;
+  }
+
+  #header{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #sneakers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 23%;
+  }
+
+  #select{
+    width: 30%;
+    background-color:burlywood;
+    border-radius: 2vh; 
+  }
+
+  .sneaker{
+    width: 25%;
+    background-color: darkorchid;
+    border-radius: 2vh;
+  }
+
+  #main{
+    display: flex;
+    justify-content: center;
+  }
+
+  #shoe{
+    width: 80%;
+  }
+
+  .holtwood-one-sc-regular {
+    font-family: "Holtwood One SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 123%;
+    margin-left: 6%;
+  }
+
+  .istok-web-regular {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 123%;
+    margin-left: 6%;
+  }
+
+  #buttons{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+  }
+
+  #price{
+    display: flex;
+    margin-left: 6%;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .btnicon{
+    width: 60%;
+  }
+  #title{
+    color: black;
+    font-size: 5vh;
+    text-align: center;
+  }
