@@ -1,0 +1,7 @@
+{
+  "name": "web-nike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
